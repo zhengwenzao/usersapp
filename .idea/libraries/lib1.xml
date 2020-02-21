@@ -1,0 +1,36 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../personinfomanagement/out/artifacts/personinfomanagement_war_exploded/lib/tomcat-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../personinfomanagement/out/artifacts/personinfomanagement_war_exploded/lib/standard.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../personinfomanagement/out/artifacts/personinfomanagement_war_exploded/lib/catalina-ha.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../personinfomanagement/out/artifacts/personinfomanagement_war_exploded/lib/catalina-tribes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../personinfomanagement/out/artifacts/personinfomanagement_war_exploded/lib/tomcat-i18n-ja.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../personinfomanagement/out/artifacts/personinfomanagement_war_exploded/lib/jstl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../personinfomanagement/out/artifacts/personinfomanagement_war_exploded/lib/tomcat-i18n-es.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../personinfomanagement/out/artifacts/personinfomanagement_war_exploded/lib/servlet-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../personinfomanagement/out/artifacts/personinfomanagement_war_exploded/lib/tomcat-dbcp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../personinfomanagement/out/artifacts/personinfomanagement_war_exploded/lib/catalina-ant.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../personinfomanagement/out/artifacts/personinfomanagement_war_exploded/lib/tomcat-util-scan.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../personinfomanagement/out/artifacts/personinfomanagement_war_exploded/lib/tomcat-coyote.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../personinfomanagement/out/artifacts/personinfomanagement_war_exploded/lib/catalina-storeconfig.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../personinfomanagement/out/artifacts/personinfomanagement_war_exploded/lib/jsp-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../personinfomanagement/out/artifacts/personinfomanagement_war_exploded/lib/tomcat-i18n-fr.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../personinfomanagement/out/artifacts/personinfomanagement_war_exploded/lib/tomcat-jdbc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../personinfomanagement/out/artifacts/personinfomanagement_war_exploded/lib/el-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../personinfomanagement/out/artifacts/personinfomanagement_war_exploded/lib/tomcat-jni.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../personinfomanagement/out/artifacts/personinfomanagement_war_exploded/lib/mysql-connector-java-5.1.43-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../personinfomanagement/out/artifacts/personinfomanagement_war_exploded/lib/tomcat-util.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../personinfomanagement/out/artifacts/personinfomanagement_war_exploded/lib/catalina.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../personinfomanagement/out/artifacts/personinfomanagement_war_exploded/lib/annotations-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../personinfomanagement/out/artifacts/personinfomanagement_war_exploded/lib/ecj-4.6.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../personinfomanagement/out/artifacts/personinfomanagement_war_exploded/lib/websocket-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../personinfomanagement/out/artifacts/personinfomanagement_war_exploded/lib/jasper-el.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../personinfomanagement/out/artifacts/personinfomanagement_war_exploded/lib/jasper.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../personinfomanagement/out/artifacts/personinfomanagement_war_exploded/lib/tomcat-websocket.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../personinfomanagement/out/artifacts/personinfomanagement_war_exploded/lib/jaspic-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
